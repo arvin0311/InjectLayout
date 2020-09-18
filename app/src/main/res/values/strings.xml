@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InjectLayout</string>
+    <string name="first_activity">这是第一个页面</string>
+    <string name="second_activity">这是第二个页面</string>
+    <string name="go_second">跳转</string>
+    <string name="go_back">fanhui</string>
+</resources>
